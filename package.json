@@ -1,0 +1,28 @@
+{
+  "name": "simple-calculator-ts",
+  "version": "1.0.0",
+  "description": "A simple calculator built with pure JavaScript and HTML.",
+  "main": "calculator.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "dev": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonamanihallin/simple-calculator-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonamanihallin/simple-calculator-ts/issues"
+  },
+  "homepage": "https://github.com/antonamanihallin/simple-calculator-ts#readme",
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.50.0"
+  }
+}
